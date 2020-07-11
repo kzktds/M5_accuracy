@@ -2,7 +2,7 @@
 Our 44th solution  about M5 Forecasting - Accuracy &lt;https://www.kaggle.com/c/m5-forecasting-accuracy/overview>
 
 
-## We have checked working with the following library versions
+## We checked working with the following library versions
 - python 3.6.8
 - numpy 1.19.0
 - pandas 1.0.3
